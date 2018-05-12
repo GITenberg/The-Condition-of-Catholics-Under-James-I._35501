@@ -1,0 +1,40 @@
+_repo: The-Condition-of-Catholics-Under-James-I._35501
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gerard, John
+    birthdate: 1840
+    deathdate: 1912
+    gutenberg_agent_id: '36738'
+    url: http://www.gutenberg.org/2009/agents/36738
+  editor:
+    agent_name: Morris, John
+    aliases:
+    - Morris, J. (John)
+    - Morris, Joannis
+    - Morris, Father
+    birthdate: 1826
+    deathdate: 1893
+    gutenberg_agent_id: '37723'
+    url: http://www.gutenberg.org/2009/agents/37723
+description: ''
+gutenberg_issued: '2011-02-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35501'
+  lccn: 03001786
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Gunpowder Plot, 1605 -- Early works to 1800'
+- !lcsh 'Catholic Church -- Great Britain -- Early works to 1800'
+- !lcsh 'Catholics -- Great Britain -- Early works to 1800'
+- !lcc 'DA'
+title: "The Condition of Catholics Under James I.\r\nFather Gerard's Narrative of\
+  \ the Gunpowder Plot"
+url: http://www.gutenberg.org/ebooks/35501
